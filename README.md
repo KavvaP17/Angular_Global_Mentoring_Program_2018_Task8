@@ -1,4 +1,4 @@
-#Server
+# Server
 
 Run `npm  start` to run json-server. Navigate to `http://localhost:3004/`.
 
